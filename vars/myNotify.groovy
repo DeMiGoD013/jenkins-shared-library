@@ -1,3 +1,3 @@
 def call(msg) {
-    echo "Notification: ${msg}"
+    echo "NOTIFY: ${msg}"
 }
